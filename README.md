@@ -1,16 +1,9 @@
-# React & Node Tutorial - Full ECommerce in 5 Hours [2020]
 
-Welcome to my React and Node tutorial to build a fully-functional e-commerce website in 5 hours. Open your code editor and follow me for the next hours to build an e-commerce website using React and Node.JS.
 
-## Demo Website
+Welcome to my React and Node tutorial to build a fully-functional e-commerce website. Open your code editor and follow me for the next hours to build an e-commerce website using React and Node.JS.
 
-👉 Demo : https://oldamazona.webacademy.pro
 
-## Video Tutorial
 
-👉 Click on this image to watch full 5-hours video of this tutorial
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Fy9SdZLBTOo/0.jpg)](https://www.youtube.com/watch?v=Fy9SdZLBTOo)
 
 ## You Will Learn
 
@@ -28,7 +21,7 @@ Welcome to my React and Node tutorial to build a fully-functional e-commerce web
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/node-react-ecommerce.git
+$ git clone https://github.com/SatyajitShinde0333/Distributed-E-Commerce-Platform.git
 $ cd node-react-ecommerce
 ```
 
